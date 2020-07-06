@@ -1,16 +1,19 @@
 # Data-Science-Machine-Learning-Capstone-Project
-Description: This is the 5th Course as part of The Python Data Science Certification
+**Description:** This is the 5th Course as part of The Python Data Science Certification
 
-Learning Objectives of this projects is as follows:
+**Learning Objectives of this projects is as follows:**
 
--Showcase your data science and machine learning skills to solve real business problems.
--Use data science methodologies to define and formulate a real-world business problem.
--Use your data analysis tools to ingest a dataset, clean it, and wrangle it.
--Use your data visualization skills to visualize the data and extract meaningful patterns to guide the modelling process.
--Use your machine learning skills to build a predictive model to help a business function more efficiently.
+* Showcase your data science and machine learning skills to solve real business problems.
 
-PROBLEM STATEMENTS can be defined as follows( you can also find it on the file 3. Capstone_Problem_Statement_Data_Merging.ipynb)
-Problem Statement:
+* Use data science methodologies to define and formulate a real-world business problem.
+
+* Use your data analysis tools to ingest a dataset, clean it, and wrangle it.
+
+* Use your data visualization skills to visualize the data and extract meaningful patterns to guide the modelling process.
+
+* Use your machine learning skills to build a predictive model to help a business function more efficiently.
+
+**PROBLEM STATEMENTS:** (you can also find it on the file 3. Capstone_Problem_Statement_Data_Merging.ipynb)
 
 The people of New Yorker use the 311 system to report complaints about the non-emergency problems to local authorities. Various agencies in New York are assigned these problems. The Department of Housing Preservation and Development of New York City is the agency that processes 311 complaints that are related to housing and buildings.
 
