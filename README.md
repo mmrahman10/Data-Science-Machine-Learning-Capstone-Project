@@ -9,7 +9,8 @@ Use your data visualization skills to visualize the data and extract meaningful 
 Use your machine learning skills to build a predictive model to help a business function more efficiently.
 
 PROBLEM STATEMENTS can be defined as follows( you can also find it on the file 3. Capstone_Problem_Statement_Data_Merging.ipynb)
-Problem Statement
+Problem Statement:
+
 The people of New Yorker use the 311 system to report complaints about the non-emergency problems to local authorities. Various agencies in New York are assigned these problems. The Department of Housing Preservation and Development of New York City is the agency that processes 311 complaints that are related to housing and buildings.
 
 In the last few years, the number of 311 complaints coming to the Department of Housing Preservation and Development has increased significantly. Although these complaints are not necessarily urgent, the large volume of complaints and the sudden increase is impacting the overall efficiency of operations of the agency.
