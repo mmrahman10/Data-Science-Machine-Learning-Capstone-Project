@@ -3,11 +3,11 @@ Description: This is the 5th Course as part of The Python Data Science Certifica
 
 Learning Objectives of this projects is as follows:
 
-Showcase your data science and machine learning skills to solve real business problems.
-Use data science methodologies to define and formulate a real-world business problem.
-Use your data analysis tools to ingest a dataset, clean it, and wrangle it.
-Use your data visualization skills to visualize the data and extract meaningful patterns to guide the modelling process.
-Use your machine learning skills to build a predictive model to help a business function more efficiently.
+-Showcase your data science and machine learning skills to solve real business problems.
+-Use data science methodologies to define and formulate a real-world business problem.
+-Use your data analysis tools to ingest a dataset, clean it, and wrangle it.
+-Use your data visualization skills to visualize the data and extract meaningful patterns to guide the modelling process.
+-Use your machine learning skills to build a predictive model to help a business function more efficiently.
 
 PROBLEM STATEMENTS can be defined as follows( you can also find it on the file 3. Capstone_Problem_Statement_Data_Merging.ipynb)
 Problem Statement:
